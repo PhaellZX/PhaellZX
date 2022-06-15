@@ -9,5 +9,4 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="7%" height="7%" />     
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="7%" height="7%" />
   <img align="center "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="7%" height="7%" />
-          
 </div>
