@@ -1,6 +1,6 @@
 ## Hi! My name is Raphael Tavares
 - 🔭 Today I work as a Dataset Labeler
-- 🌱 Studying Python and Deep Learning
+- 🌱 Studying Python, Machine Learning and Deep Learning 
 - 🌱 Studying Web Programming
 <div align="center">
   <a href="https://github.com/phaellzx">
