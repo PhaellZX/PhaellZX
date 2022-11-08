@@ -1,7 +1,7 @@
 ## Hi! My name is Raphael Tavares
 - 🔭 Today I work as a Dataset Labeler
+- 🌱 System analysis and development student
 - 🌱 Studying Python, Machine Learning and Deep Learning 
-- 🌱 Studying Web Programming
 <div align="center">
   <a href="https://github.com/phaellzx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phaellzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
