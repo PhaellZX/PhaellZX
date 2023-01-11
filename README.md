@@ -1,6 +1,11 @@
-## Hi! My name is Raphael Tavares
-- 🔭 Today I work as a Dataset Labeler
-- 🌱 System analysis and development student
+## Raphael Tavares
+  Atuo na área de desenvolvimento há 6 anos, especificamente na
+  área de back e front end.
+  Trabalho com as linguagens Html, Css, Javascript. C#, Python.
+  Sou muito autodidata, gosto de aprender e receber conhecimento, e
+  sou extremamente dedicado.
+  Escuto alguns canais de tecnologia, podcasts pra me manter
+  informado sobre a área de tecnologia
 <!--<div align="center">
   <a href="https://github.com/phaellzx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phaellzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
