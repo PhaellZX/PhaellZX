@@ -1,11 +1,5 @@
-## Raphael Tavares
-  Atuo na área de desenvolvimento há 6 anos, especificamente na
-  área de back e front end.
-  Trabalho com as linguagens Html, Css, Javascript. C#, Python.
-  Sou muito autodidata, gosto de aprender e receber conhecimento, e
-  sou extremamente dedicado.
-  Escuto alguns canais de tecnologia, podcasts pra me manter
-  informado sobre a área de tecnologia
+## About me
+  I am a student of the Systems Analysis and Development course and I work as a Labeling Coordinator for computer vision training. I study programming since 2014 starting in the technical course and then going to the area of computer vision and machine learning.
 <div align="center">
   <a href="https://github.com/phaellzx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phaellzx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
