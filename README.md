@@ -1,5 +1,5 @@
-## About me
-  I am a student of the Systems Analysis and Development course and I work as a Labeling Coordinator for computer vision training. I study programming since 2014 starting in the technical course and then going to the area of computer vision and machine learning.
+## Sobre mim
+ Sou aluno do curso de Análise e Desenvolvimento de Sistemas. Estudo programação desde 2014 começando no curso técnico em Desenvolvimento Web.
 
 <div align="center">
   <a href="https://github.com/phaellzx">
