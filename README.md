@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Raphael Tavares
 
-**`Desenvolvedor FullStack | Visão Computacional`**
+**`Desenvolvedor Full-Stack | Visão Computacional`**
 
 Me chamo Raphael de Lima Tavares, tenho 30 anos e sou natural de São Paulo. Concluí o ensino médio e em seguida fiz o curso Técnico de Informática no IFRS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Gosto muito de tecnologias que envolve IA, procuro sempre está atualizado com as últimas nóticias do mercado da tecnologia.
 
