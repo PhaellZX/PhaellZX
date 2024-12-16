@@ -1,5 +1,8 @@
-## Sobre mim
- Sou aluno do curso de Análise e Desenvolvimento de Sistemas. Estudo programação desde 2014 começando no curso técnico em Desenvolvimento Web.
+# 👩🏻‍💻 Raphael Tavares
+
+**`Desenvolvedor FullStack | Visão Computacional`**
+
+Me chamo Raphael de Lima Tavares, tenho 30 anos e sou natural de São Paulo. Concluí o ensino médio e em seguida fiz o curso Técnico de Informática no IFRS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Gosto muito de tecnologias que envolve IA, procuro sempre está atualizado com as últimas nóticias do mercado da tecnologia.
 
 <div align="center">
   <a href="https://github.com/phaellzx">
@@ -15,5 +18,3 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="7%" height="7%"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" height="5%" />       
 </div>
-
-   
