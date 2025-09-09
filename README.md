@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack | Visão Computacional`**
 
-Me chamo Raphael de Lima Tavares, tenho 30 anos e sou natural de São Paulo. Concluí o ensino médio e em seguida fiz o curso Técnico de Informática no IFRS. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Gosto muito de tecnologias que envolve IA, procuro sempre está atualizado com as últimas nóticias do mercado da tecnologia.
+My name is Raphael Tavares, and I'm from São Paulo, Brazil. I graduated from high school and then took the Computer Technician course at IFRS. I'm currently studying Systems Analysis and Development at IFRS. I'm passionate about AI technologies and always try to stay up to date with the latest news in the technology market.
 
 <div align="center">
   <a href="https://github.com/phaellzx">
