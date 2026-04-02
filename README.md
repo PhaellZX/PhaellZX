@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Raphael Tavares
 
-**`Desenvolvedor FullStack | Visão Computacional`**
+**`Full-Stack Developer | Computer Vision`**
 
 My name is Raphael Tavares, and I'm from São Paulo, Brazil. I graduated from high school and then took the Computer Technician course at IFRS. I'm currently studying Systems Analysis and Development at IFRS. I'm passionate about AI technologies and always try to stay up to date with the latest news in the technology market.
 
